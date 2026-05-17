@@ -6,7 +6,7 @@ I’m especially interested in turning messy real-world workflows into reliable,
 
 I also maintain a (somewhat) robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and development environments for the platforms I use at work (mainly LIMS and industrial automation tools). I use it to prototype integrations, test infrastructure patterns, and run personal observability and automation projects.
 
-I’m currently working on an AI-assisted development workflow for digital lab methods. It parses requirements, emits a metadata representation of a method, creates that method in LIMS through custom API wrappers, executes it with a hand-rolled domain-specific language, and reviews the result for further iteration. The project is inspired by Kiro and is under active development.
+I’m currently working on an AI-assisted development workflow for digital lab methods. The goal is to turn method requirements into executable LIMS workflows with a tight review-and-iteration loop. Under the hood, it parses requirements, emits a metadata representation of a method, creates that method in LIMS through custom API wrappers, executes it with a hand-rolled domain-specific language, and reviews the result for further iteration. The project is inspired by Kiro and is under active development.
 
 ## Selected Projects
 
