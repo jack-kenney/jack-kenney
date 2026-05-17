@@ -4,7 +4,7 @@ Hello, and welcome! My name is Jack, and I like building things. Specifically, m
 
 I’m especially interested in turning messy real-world processes into reliable, software-defined systems. Lately, that has meant a lot of work around LIMS/lab automation, MCP-style tool interfaces, and engineering tools for regulated environments.
 
-I also maintain a (somewhat) robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and development environments for the platforms I use at work (mainly LIMS and industrial automation tools). I use it to prototype integrations, test infrastructure patterns, and run personal observability and automation projects.
+I also maintain a (somewhat) robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and development environments for the platforms I use at work (mainly LIMS and industrial automation tools). I use it to prototype integrations, test infrastructure patterns, and run personal observability and automation projects. You'll find a several ESP32/MQTT projects linked below; these drive various apps and integrations used in my home.
 
 I’m currently working on an AI-assisted development workflow for digital lab methods. The goal is to turn requirements into executable LIMS procedures with a tight review-and-iteration loop. Under the hood, it parses requirements, emits a structured method model, creates it in LIMS through custom API wrappers, executes it with a hand-rolled domain-specific language, and reviews the result for further iteration. The project is inspired by Kiro and is under active development.
 
