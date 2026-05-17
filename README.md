@@ -2,7 +2,7 @@
 
 Hello, and welcome! My name is Jack, and I like building things. Specifically, I build systems that interface software to the physical world: embedded telemetry, MQTT/SCADA integrations, laboratory automation, game/graphics systems, and AI-assisted engineering workflows.
 
-I’m particularly interested in turning pesky real-world workflows into reliable, software-defined systems. Lately, that has meant a lot of work around AI-assisted engineering workflows, LIMS/lab automation, MCP-style tool interfaces, and reliable software systems for regulated environments.
+I’m particularly interested in turning pesky real-world workflows into reliable, software-defined systems. Lately, that has meant a lot of work around LIMS/lab automation, MCP-style tool interfaces, and reliable software systems for regulated environments.
 
 I also maintain a (somewhat) robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and dev environments for the systems I use at work. I use it to prototype integrations, test infrastructure patterns, and run personal observability/automation projects.
 
