@@ -2,11 +2,11 @@
 
 Hello, and welcome! My name is Jack, and I like building things. Specifically, I build systems that interface software to the physical world: embedded telemetry, MQTT/SCADA integrations, laboratory automation, game/graphics systems, and AI-assisted enterprise workflows.
 
-I’m especially interested in turning pesky real-world workflows into reliable, software-defined systems. Lately, that has meant a lot of work around AI-assisted engineering workflows, LIMS/lab automation, MCP-style tool interfaces, and reliable software systems for regulated environments.
+I’m particularly interested in turning pesky real-world workflows into reliable, software-defined systems. Lately, that has meant a lot of work around AI-assisted engineering workflows, LIMS/lab automation, MCP-style tool interfaces, and reliable software systems for regulated environments.
 
-I also maintain a somewhat robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and dev environments for the systems I use at work, mainly SampleManager LIMS and Ignition. I use it to prototype integrations, test infrastructure patterns, and run personal observability/automation projects.
+I also maintain a (somewhat) robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and dev environments for the systems I use at work. I use it to prototype integrations, test infrastructure patterns, and run personal observability/automation projects.
 
-I also have a secondary replication server that I push ZFS snapshots to using sanoid/syncoid. I monitor replication status using a Python script that emits the output of `sanoid --monitor-snapshot` as MQTT. Ignition ingests that telemetry, and I have a simple dashboard where I can check status.
+In my professional work, I deal with enterprise laboratory platforms, where I develop digital test executions of laboratory test methods, as well as integrations with a variety of lab instruments. I'm currently working on an AI-assisted development workflow that parses requirements, emits a metadata representation of a digitam test method, creates the method in LIMS via custom API wrappers, executes the method using a hand-rolled domain-specific language, and reviews the method/execution, passing it back for further cycles if changes are needed. The project is inspired by Kiro, and is under active development.
 
 ## Selected Projects
 
