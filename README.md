@@ -2,9 +2,7 @@
 
 Hello, and welcome! My name is Jack, and I like building things. Specifically, I build systems that interface software to the physical world: embedded telemetry, MQTT/SCADA integrations, laboratory automation, game/graphics systems, and AI-assisted enterprise workflows.
 
-My work covers embedded devices, sensors, real-time systems, enterprise laboratory systems, automation, observability, developer tooling, and low-level systems programming. I’m particularly interested in turning pesky real-world workflows into reliable, software-defined systems.
-
-Current focus: AI-assisted engineering workflows, LIMS/lab automation, MCP-style tool interfaces, and reliable software systems for regulated environments.
+I’m especially interested in turning pesky real-world workflows into reliable, software-defined systems. Lately, that has meant a lot of work around AI-assisted engineering workflows, LIMS/lab automation, MCP-style tool interfaces, and reliable software systems for regulated environments.
 
 I also maintain a somewhat robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and dev environments for the systems I use at work, mainly SampleManager LIMS and Ignition. I use it to prototype integrations, test infrastructure patterns, and run personal observability/automation projects.
 
@@ -16,18 +14,4 @@ I also have a secondary replication server that I push ZFS snapshots to using sa
 - [MQTT Kitchen Scale](https://github.com/jack-kenney/mqtt-kitchen-scale) — ESP32 + HX711 kitchen scale publishing calibrated weight telemetry over MQTT.
 - [Home Air Quality Monitor](https://github.com/jack-kenney/home-air-quality) — ESP32-based CO₂, temperature, humidity, and particulate monitoring pipeline using MQTT, Ignition, Prometheus, and Grafana.
 - [JKLS Flight Computer](https://github.com/jack-kenney/JKLS-flight-computer) — Arduino-based model rocket flight computer with BMP388 altitude tracking, apogee detection, ejection output, and SD telemetry logging.
-- [Twitch RGB Matrix](https://github.com/jack-kenney/twitch-rgb-matrix) — ESP8266 NeoPixel matrix connected to Twitch API events for real-time visual display..
-<!--
-**jack-kenney/jack-kenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Twitch RGB Matrix](https://github.com/jack-kenney/twitch-rgb-matrix) — ESP8266 NeoPixel matrix connected to Twitch API events for real-time visual display.
