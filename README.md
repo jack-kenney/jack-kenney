@@ -1,12 +1,12 @@
 # Jack Kenney
 
-Hello, and welcome! My name is Jack, and I like building things. Specifically, I build systems that interface software to the physical world: embedded telemetry, MQTT/SCADA integrations, laboratory automation, game/graphics systems, and AI-assisted engineering workflows.
+Hello, and welcome! My name is Jack, and I like building things--particularly at the boundary between software and the physical world: embedded telemetry, MQTT/SCADA integrations, laboratory automation, game/graphics systems, and AI-assisted engineering workflows.
 
-I’m particularly interested in turning pesky real-world workflows into reliable, software-defined systems. Lately, that has meant a lot of work around LIMS/lab automation, MCP-style tool interfaces, and reliable software systems for regulated environments.
+I’m especially interested in turning messy real-world workflows into reliable, software-defined systems. Lately, that has meant a lot of work around LIMS/lab automation, MCP-style tool interfaces, and engineering tools for regulated environments.
 
-I also maintain a (somewhat) robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and dev environments for the systems I use at work, mainly LIMS and industrial automation platforms. I use it to prototype integrations, test infrastructure patterns, and run personal observability/automation projects.
+I also maintain a (somewhat) robust homelab built around Proxmox, ZFS, Windows/Linux VMs, home automation, monitoring, and development environments for the platforms I use at work ( mainly LIMS and industrial automation tools). I use it to prototype integrations, test infrastructure patterns, and run personal observability and automation projects.
 
-I'm currently working on an AI-assisted development workflow for digital lab methods. It parses requirements, emits a metadata representation of a method, creates the method in LIMS via custom API wrappers, executes it using a hand-rolled domain-specific language, and reviews the result for further iteration. The project is inspired by Kiro and is under active development.
+I’m currently working on an AI-assisted development workflow for digital lab methods. It parses requirements, emits a metadata representation of a method, creates that method in LIMS through custom API wrappers, executes it with a hand-rolled domain-specific language, and reviews the result for further iteration. The project is inspired by Kiro and is under active development.
 
 ## Selected Projects
 
